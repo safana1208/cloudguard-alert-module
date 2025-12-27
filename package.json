@@ -1,0 +1,11 @@
+{
+  "name": "cloudguard-alert-module",
+  "version": "1.0.0",
+  "main": "cloudguard/server/app.js",
+  "scripts": {
+    "start": "node cloudguard/server/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
